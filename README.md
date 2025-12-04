@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varad Raut</h1>
 <h3 align="center">A passionate full-stack (MERN) & ML developer, blending creative UI/UX with powerful backend logic</h3>
-![cat]([assets/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif](https://github.com/varadisthedev/assets/blob/4c5271e3ffb5da0af071195cf96533aabff4a9d0/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif))
+![cat](assets/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varadisthedev&label=Profile%20views&color=0e75b6&style=flat" alt="varadisthedev" /> </p>
