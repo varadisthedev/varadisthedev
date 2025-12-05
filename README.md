@@ -6,9 +6,9 @@
 </p>
 
 <!-- TROPHY FIXED -->
-<p align="center">
+
   [![trophy](https://github-profile-trophy.vercel.app/?username=varadisthedev&margin-w=10)]
-</p>
+
 
 <!-- STATS + CAT GIF WITH TEXT -->
 <div style="display:flex; justify-content:space-between; align-items:center;">
