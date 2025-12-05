@@ -7,7 +7,7 @@
 
 <!-- TROPHY FIXED -->
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=varadisthedev&margin-w=10)]
+  ![trophy](https://github-profile-trophy.vercel.app/?username=varadisthedev&margin-w=10&no-bg=true)
 
 
 <!-- STATS + CAT GIF WITH TEXT -->
