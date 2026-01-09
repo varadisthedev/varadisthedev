@@ -6,6 +6,7 @@
 
 
 <!-- TROPHY -->
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=varadisthedev&margin-w=10](https://github-profile-trophy.vercel.app/?username=varadisthedev&column=10&theme=darkhub&no-frame=true))
 
 
