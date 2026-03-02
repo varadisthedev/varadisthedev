@@ -1,8 +1,9 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=varadisthedev&label=Profile%20views&color=blue&style=flat" alt="varadisthedev" /> </p>
+
 <h1 align="center">Hello There! I'm Varad Raut 🫧</h1>
 <h3 align="left">A passionate full-stack web-developer, blending creative UI/UX with powerful backend logic</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=varadisthedev&label=Profile%20views&color=blue&style=flat" alt="varadisthedev" /> </p>
 
 
 <!-- TROPHY -->
